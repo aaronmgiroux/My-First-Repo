@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 tyththtrhtrhhrs
 trhrthrthsrh
 hrthrthrtshsryrth
@@ -6,3 +7,12 @@ rthrshrsh
 rhrtshsrh
 rthrthrth
 rthhrth
+=======
+ksdghshghshfghfgshsfghshg
+shfghfgshgf
+hsfhsfhsfg
+hfgshfghfgs
+hgfshsfhgf
+hfghsfghgf
+hgfdhfhfghg
+>>>>>>> Dev
